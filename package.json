@@ -1,0 +1,25 @@
+{
+  "name": "vite-vue-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@unocss/preset-attributify": "^0.54.1",
+    "@unocss/preset-rem-to-px": "^0.54.1",
+    "@unocss/preset-uno": "^0.54.1",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "postcss-px-to-viewport-8-plugin": "^1.2.2",
+    "sass": "^1.64.2",
+    "sass-loader": "^13.3.2",
+    "unocss": "^0.54.1",
+    "vite": "^4.4.8"
+  }
+}
